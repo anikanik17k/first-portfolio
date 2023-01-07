@@ -1,0 +1,169 @@
+body {
+    font-family: 'Berkshire Swash', cursive;
+    font-family: 'Merriweather', serif;
+}
+
+.header {
+    background-image: url('./images/banner/banner1.png');
+    background-repeat: no-repeat;
+    height: 900px;
+    background-size: cover;
+    padding: 20px;
+
+
+}
+
+.text {
+    text-align: right;
+
+}
+
+.first-text {
+    text-align: inherit;
+    font-weight: 700;
+    font-size: 70px;
+    padding-top: 80px;
+    margin-right: 150px;
+}
+
+.details {
+    text-align: inherit;
+    margin-right: 150px;
+    margin-top: 0;
+
+}
+
+.button-one {
+    text-align: inherit;
+    margin-right: 150px;
+    padding: 20px;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+}
+
+.failure-section {
+    display: flex;
+    margin-top: 50px;
+}
+
+.img-person {
+    width: 50%;
+}
+
+.person {
+    width: 100%;
+}
+
+.failure-text {
+    text-align: left;
+    width: 50%;
+}
+
+.text-failure {
+    font-size: 50px;
+    text-align: inherit;
+}
+
+.fa-sharp {
+    color: green;
+}
+
+.my-plan {
+    font-size: 50px;
+    text-align: center;
+}
+
+.web {
+    display: flex;
+    justify-content: center;
+}
+
+.web-text {
+    text-align: center;
+}
+
+.web-div {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.btn-call {
+    padding: 15px;
+    background-color: white;
+    color: orangered;
+    border: none;
+    font-weight: 700;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.keep-positive {
+    background-image: url('./images/gradient3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+    border-radius: 15px;
+}
+
+.positive-section {
+    background-image: url('./images/watch.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 150px;
+    border-radius: 15px;
+}
+
+.positive-text {
+    font-size: 50px;
+    color: white;
+}
+
+.future-text{
+    font-size: 50px;
+    color: white;
+}
+.future-textt{
+    color: white;
+}
+.input{
+    padding: 20px;
+    background-color: inherit;
+    border: 1px solid white;
+    width: 40%;
+    border-radius: 10px;
+}
+.subscribe-text{
+    color: white;
+    font-size: 30px;
+}
+.future-section{
+    display: flex;
+    background-color: black;
+    margin-top: 150px;
+    padding: 80px;
+}
+.future{
+    width: 50%;
+    margin-left: 130px;
+}
+.subscribe{
+    width: 50%;
+}
+.btn-subscribe{
+    padding: 20px;
+    font-weight: 700;
+    font-size: 20px;
+    color: orangered;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+}
